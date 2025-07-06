@@ -1,5 +1,3 @@
 Flask
 twilio
-gunicoFlask
-twilio
-gunicornrn
+gunicorn
